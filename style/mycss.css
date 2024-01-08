@@ -1,0 +1,30 @@
+.navbar{
+    height: 80px;
+}
+body{
+    background-color: #edede9;
+    font-family: 'Manjari', sans-serif;
+}
+.row1{
+    padding-top: 20px;
+}
+.whatcareer{
+    left: 300px;
+}
+h2{
+    font-family: 'Trirong', serif;
+}
+.row3{
+    padding-top: 20px;
+}
+.politsci3{
+    width: 300px;
+    height: auto;
+}
+.uchicago{
+    width: 270px;
+    height: auto;
+}
+a:hover{
+    color: blue;
+}
